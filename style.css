@@ -28,7 +28,6 @@ section {
 
 .course-content {
     flex: 1;
-    max-width: 60%; /* Remove or adjust this if you want a specific max-width */
     background-color: #333; /* Gray background */
     padding: 20px;
     border-radius: 8px;
